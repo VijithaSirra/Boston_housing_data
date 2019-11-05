@@ -1,7 +1,7 @@
 # Boston_Housing_Data
 ![](boston.jpg)
 
-This one more data set to practice and learn the data cleaning and predicting the results with the help of machine learning algorithms.
+This is one more data set to practice and learn the data cleaning and predicting the results with the help of machine learning algorithms.
 
 Here, Boston city housing data set with 14 different features like
 
