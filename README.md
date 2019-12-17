@@ -39,7 +39,9 @@ The Boston data frame has 506 rows and 14 columns.
 Predicted attribute: medv
 
 
-###Source :
+## Source :
 1. [Harrison, D. and Rubinfeld, D.L. (1978) Hedonic prices and the demand for clean air. J. Environ. Economics and Management 5, 81–102.](www.google.com)
 
 Belsley D.A., Kuh, E. and Welsch, R.E. (1980) Regression Diagnostics. Identifying Influential Data and Sources of Collinearity. New York: Wiley.
+## Sources
+1. [Navarro, Renee MD. "What is unconscious bias?" *University of California, San Francisco.* Accessed: October 20, 2017](https://diversity.ucsf.edu/resources/unconscious-bias)z
