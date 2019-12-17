@@ -1,4 +1,4 @@
-# Boston_Housing_Data
+# Boston Housing Data
 ![](boston.jpg)
 
 This is one more data set to practice and learn the data cleaning and predicting the results with the help of machine learning algorithms.
@@ -42,4 +42,4 @@ Predicted attribute: medv
 ## Source :
 1. [Harrison, D. and Rubinfeld, D.L. (1978) Hedonic prices and the demand for clean air. J. Environ. Economics and Management 5, 81–102.](https://www.google.com)
 
-Belsley D.A., Kuh, E. and Welsch, R.E. (1980) Regression Diagnostics. Identifying Influential Data and Sources of Collinearity. New York: Wiley.
+2. [Belsley D.A., Kuh, E. and Welsch, R.E. (1980) Regression Diagnostics. Identifying Influential Data and Sources of Collinearity. New York: Wiley.]
