@@ -8,11 +8,11 @@ Here, Boston city housing data set with 14 different features like
 'crim', 'zn', 'indus', 'chas', 'nox', 'rm', 'age', 'dis', 'rad', 'tax',
        'ptratio', 'b', 'lstat', and 'medv'.
        
-       
+<pre>       
 crim  : per capita crime rate by town.
 
 zn    : proportion of residential land zoned for lots over 25,000 sq.ft.
-
+</pre>
 indus-----------proportion of non-retail business acres per town.
 
 chas-----------Charles River dummy variable (= 1 if tract bounds river; 0 otherwise).
