@@ -9,9 +9,9 @@ Here, Boston city housing data set with 14 different features like
        'ptratio', 'b', 'lstat', and 'medv'.
        
        
-crim -------------per capita crime rate by town.
+crim  : per capita crime rate by town.
 
-zn----------proportion of residential land zoned for lots over 25,000 sq.ft.
+zn    : proportion of residential land zoned for lots over 25,000 sq.ft.
 
 indus-----------proportion of non-retail business acres per town.
 
