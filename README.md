@@ -3,13 +3,9 @@
 
 This is one more data set to practice and learn the data cleaning and predicting the results with the help of machine learning algorithms.
 
-Here, Boston city housing data set with 14 different features like
-
-'crim', 'zn', 'indus', 'chas', 'nox', 'rm', 'age', 'dis', 'rad', 'tax',
-       'ptratio', 'b', 'lstat', and 'medv'.
-       
+Here, Boston city housing data set with 14 different features like ..     
 <pre>       
-crim   : per capita crime rate by town.
+crim    : per capita crime rate by town.
 
 zn      : proportion of residential land zoned for lots over 25,000 sq.ft.
 
